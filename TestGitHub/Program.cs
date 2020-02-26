@@ -7,7 +7,7 @@ namespace TestGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Ruslan pidoras!");
-            Console.WriteLine("We all is gavno!");
+            Console.WriteLine("We are all gavno!");
             
         }
     }
